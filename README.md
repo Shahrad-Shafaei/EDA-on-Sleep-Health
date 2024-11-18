@@ -1,10 +1,10 @@
 # EDA-on-Sleep-Health
 
 ### Ref: 
-https://www.kaggle.com/search?q=Sleep_health_and_lifestyle_dataset.csv
-https://www.kaggle.com/code/adityamhaske/eda-on-sleep-health-and-lifestyle-dataset/notebook
-https://www.kaggle.com/code/hiranjoseph/sleep-health-analysis-eda-visualization
-https://www.kaggle.com/code/jillanisofttech/sleep-health-and-lifestyle-predication-with-94-ac
+- https://www.kaggle.com/search?q=Sleep_health_and_lifestyle_dataset.csv
+- https://www.kaggle.com/code/adityamhaske/eda-on-sleep-health-and-lifestyle-dataset/notebook
+- https://www.kaggle.com/code/hiranjoseph/sleep-health-analysis-eda-visualization
+- https://www.kaggle.com/code/jillanisofttech/sleep-health-and-lifestyle-predication-with-94-ac
 
 ### Introduction
 Sleep plays a vital role in maintaining overall health and well-being. However, various lifestyle factors can significantly impact sleep quality and duration. Understanding the relationship between lifestyle choices and sleep health is essential for individuals seeking to improve their sleep patterns. As a data scientist, analyzing these factors can provide valuable insights into the causes and effects of sleep disturbances, helping individuals make informed decisions to optimize their sleep health.
